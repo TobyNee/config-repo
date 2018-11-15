@@ -7,3 +7,6 @@ spring:
     username: root
     password: 123456
 env: dev4
+girl:
+  name: lili
+  age: 18
